@@ -1,0 +1,28 @@
+{
+  "name": "hubot-redis-test",
+  "version": "0.0.1",
+  "description": "A hubot script to access Redis",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knjcode/hubot-redis-test.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "Redis"
+  ],
+  "author": {
+    "name": "knjcode",
+    "mail": "knjcode@gmail.com",
+    "url": "https://blog.knjcode.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knjcode/hubot-redis-test/issues"
+  },
+  "homepage": "https://github.com/knjcode/hubot-redis-test",
+  "dependencies": {
+    "redis": "^0.12.1"
+  }
+}
